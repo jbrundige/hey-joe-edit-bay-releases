@@ -1,0 +1,2 @@
+{ "version": "0.1.0", "code": { "url": "https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/v0.1.0/code-0.1.0.tgz", "sha256": "5727503238f42b3a1d8b140e842fbb1aabbf34893fb28d5e33cb89e580b771ae" },
+  "tools": "1", "shell": "33.4.11" }
