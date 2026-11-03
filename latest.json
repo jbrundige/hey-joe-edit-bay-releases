@@ -1,2 +1,2 @@
-{ "version": "0.1.0", "code": { "url": "https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/v0.1.0/code-0.1.0.tgz", "sha256": "5727503238f42b3a1d8b140e842fbb1aabbf34893fb28d5e33cb89e580b771ae" },
+{ "version": "0.1.1", "code": { "url": "https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/v0.1.1/code-0.1.1.tgz", "sha256": "6bc8565163ae4422d2db66b111264355ef914bc4434c0affe5bb73b44c44e422" },
   "tools": "1", "shell": "33.4.11" }

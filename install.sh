@@ -11,8 +11,8 @@
 # release.sh fills in the @...@ values for each release.
 set -euo pipefail
 
-VERSION="0.1.0"
-CODE_URL="https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/v0.1.0/code-0.1.0.tgz";   CODE_SHA="5727503238f42b3a1d8b140e842fbb1aabbf34893fb28d5e33cb89e580b771ae"
+VERSION="0.1.1"
+CODE_URL="https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/v0.1.1/code-0.1.1.tgz";   CODE_SHA="6bc8565163ae4422d2db66b111264355ef914bc4434c0affe5bb73b44c44e422"
 TOOLS_URL="https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/tools-1/tools-1.tgz"; TOOLS_SHA="ccc1247f6942e26440345cd1d8663d5af3360c05f3952cc5016f285f7bfeee42"; TOOLS_VERSION="1"
 SHELL_URL="https://github.com/jbrundige/hey-joe-edit-bay-releases/releases/download/shell-33.4.11/shell-33.4.11.zip"; SHELL_SHA="db25c700177c8ae62459ee830e611981b1f1f03b9bbb6e9aba8d030543ab3e77"; SHELL_VERSION="33.4.11"
 MODEL_URL="https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin"; MODEL_SHA="1fc70f774d38eb169993ac391eea357ef47c88757ef72ee5943879b7e8e2bc69"
