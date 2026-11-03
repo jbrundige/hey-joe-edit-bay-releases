@@ -5,7 +5,8 @@ and Edit Bay makes it with the editing rules and your brand built in.
 
 ## Install
 
-You need a Mac with Apple silicon (M1 or newer) and a Claude Pro or Max plan. Open Terminal
+You need a Mac with Apple silicon (M1 or newer) and a Claude plan: your own Pro or Max, or a
+seat on your company's Claude Team or Enterprise plan. Open Terminal
 (press Command-Space, type Terminal, press Return), paste this line and press Return:
 
 ```
